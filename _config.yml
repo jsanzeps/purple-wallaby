@@ -87,3 +87,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://purple-wallaby-1ee0d.netlify.app'
